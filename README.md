@@ -5,6 +5,10 @@ Project Latihan Slicing UI Flutter
 ## Getting Started "Mbimbim"
 
 
+![ss1](https://user-images.githubusercontent.com/103660570/190680054-9a69c4eb-1119-40bc-b7a1-164a16b6b88d.JPG)
+
+![ss2](https://user-images.githubusercontent.com/103660570/190680064-383b016c-ae3e-4647-9a38-21dc58c46680.JPG)
+
 
 This project is a starting point for a Flutter application.
 
