@@ -6,7 +6,6 @@ import 'package:movie_streaming/Card/Card2.dart';
 import 'package:movie_streaming/Model/Json1.dart';
 import 'package:movie_streaming/Model/Start.dart';
 import 'package:movie_streaming/Screen/Search.dart';
-import 'package:movie_streaming/Services/Json1.dart';
 import 'package:movie_streaming/Services/Json2.dart';
 import 'package:movie_streaming/style/styleFont.dart';
 import 'package:google_fonts/google_fonts.dart';
