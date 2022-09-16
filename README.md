@@ -1,8 +1,10 @@
 # movie_streaming
 
-A new Flutter project.
+Project Latihan Slicing UI Flutter
 
-## Getting Started
+## Getting Started "Mbimbim"
+
+
 
 This project is a starting point for a Flutter application.
 
